@@ -1,0 +1,6 @@
+{
+  "name": "VaultKey - Password Generator & Encrypted Vault",
+  "description": "Cryptographically secure password generator with customizable strength rules, Google, Instagram, and Facebook policy compliance, and zero-knowledge encrypted credential vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
